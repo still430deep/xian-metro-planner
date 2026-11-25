@@ -3,4 +3,6 @@ services:
     name: xian-metro-planner
     runtime: docker
     plan: free
+    region: singapore
     healthCheckPath: /
+
