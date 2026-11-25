@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: xian-metro-planner
+    runtime: docker
+    plan: free
+    healthCheckPath: /
